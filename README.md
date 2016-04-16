@@ -1,9 +1,9 @@
 # Docker Vagrantfile
 
 This is a very basic Vagrantfile that gets you the latest version of Docker
-(1.7.0-dev at the time of this writing) on an Ubuntu box. It also installs
-emacs and a Dockerfile mode. Once it's up, you should be ready to launch
-containers.
+(1.11.0 at the time of this writing) and docker-compose on an Ubuntu box.
+It also installs emacs and a Dockerfile mode. Once it's up, you should be
+ready to launch containers.
 
 Since you'll be installing all your application dependencies through Docker
 anyhow, this ought to be enough for basic usage.
